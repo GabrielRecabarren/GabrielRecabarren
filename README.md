@@ -31,9 +31,11 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
     <td>✅ Excelentes habilidades de comunicación y trabajo en equipo.</td>
   </tr>
 </table>
+<input type:"text">
 
 
 
 
 
 Mago de oficio y Actor de profesión, con experiencia en educación y animación sociocultural para grupos de diferentes edades en eventos íntimos y masivos, me apasiona crear experiencias educativas y espectaculares mezclando magia, juegos sociales, historias y tecnología.
+#Tecnomagia
