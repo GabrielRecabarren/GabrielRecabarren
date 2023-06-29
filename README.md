@@ -16,7 +16,8 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
     <td>✅ Experiencia en diseño responsive.</td>
   </tr>
   <tr>
-    <td>✅ Conocimientos en bases de datos relacionales: OracleSQL; Y no relacionales: MongoDB.</td>    
+    <td>✅ Conocimientos en bases de datos relacionales: OracleSQL.</td>   
+    <td>✅ Conocimientos en bases de datos no relacionales: MongoDB.</td>   
   </tr>
   <tr>
     <td>✅ Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.</td>
