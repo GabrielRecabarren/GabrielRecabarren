@@ -22,7 +22,7 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
     <td>✅ Conocimientos en bases de datos no relacionales: MongoDB.</td>     
   </tr>
   <tr>
-    <td>✅ Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.</td>
+    <td>✅Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.</td>
   </tr>
   <tr>
     <td>✅ Control de versiones con Git.</td>    
