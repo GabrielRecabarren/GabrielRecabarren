@@ -9,8 +9,8 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
 
 <h2 align="center"> 🔧 Habilidades destacadas: </h2>
 <table>
-  <tr>✅ 
-    <td>Desarrollo web front-end: HTML, CSS, JavaScript y React.</td>    
+  <tr> 
+    <td>✅Desarrollo web front-end: HTML, CSS, JavaScript y React.</td>    
   </tr>
   <tr>
     <td>✅ Experiencia en diseño responsive.</td>
