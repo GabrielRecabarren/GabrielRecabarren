@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hola, Soy Gabriel 👋
 
-<!--
-**GabrielRecabarren/GabrielRecabarren** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#🌱 Soy Gabriel Recabarren,
+31 años, Desarrollador Full Stack orientado al auto-aprendizaje, cumplimiento de objetivos y comunicación efectiva. Mago de oficio y Actor de profesión, con experiencia en educación y animación sociocultural para grupos de diferentes edades en eventos íntimos y masivos, me apasiona crear experiencias educativas y espectaculares mezclando magia, juegos sociales, historias y tecnología. He desarrollado soluciones tecnológicas, producción y gestión de contenido digital desde un enfoque de innovación y facilidad en su uso.
+En búsqueda de mejora continua, potenciar mi desarrollo profesional y aportar desde mi conocimiento y experiencia en nuevos desafíos.
+Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. Siempre abierto a mantenerme actualizado sobre las últimas tendencias y avances en el desarrollo web.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#🔧 Habilidades destacadas: 
+- Desarrollo web front-end: HTML, CSS, JavaScript y React.
+- Experiencia en diseño responsive.
+- Conocimientos en bases de datos relacionales: OracleSQL; Y no relacionales: MongoDB.
+- Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.
+- Control de versiones con Git.
+- Excelentes habilidades de comunicación y trabajo en equipo.
+
