@@ -19,9 +19,9 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
     <td>✅ Conocimientos en bases de datos relacionales: OracleSQL.</td>         
   </tr>
   <tr>
-    <td>
+    
       <td>✅ Conocimientos en bases de datos no relacionales: MongoDB.</td> 
-    </td>
+    
   <tr>
     <td>✅ Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.</td>
   </tr>
