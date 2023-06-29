@@ -31,9 +31,6 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
     <td>✅ Excelentes habilidades de comunicación y trabajo en equipo.</td>
   </tr>
 </table>
-<input type:"text">
-
-
 
 
 
