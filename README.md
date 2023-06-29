@@ -1,4 +1,5 @@
 ### Hola, Soy Gabriel 👋
+<h1 align="center"> Hola, Soy Gabriel 👋</h1>
 
 #🌱 Soy Gabriel Recabarren,
 31 años, Desarrollador Full Stack orientado al auto-aprendizaje, cumplimiento de objetivos y comunicación efectiva. Mago de oficio y Actor de profesión, con experiencia en educación y animación sociocultural para grupos de diferentes edades en eventos íntimos y masivos, me apasiona crear experiencias educativas y espectaculares mezclando magia, juegos sociales, historias y tecnología. He desarrollado soluciones tecnológicas, producción y gestión de contenido digital desde un enfoque de innovación y facilidad en su uso.
