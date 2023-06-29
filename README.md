@@ -10,20 +10,26 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
 <h2 align="center"> 🔧 Habilidades destacadas: </h2>
 <table>
   <tr>
-    <td>✅</td>
-    <td>✅</td>
+    <td>✅ Desarrollo web front-end: HTML, CSS, JavaScript y React.</td>    
   </tr>
   <tr>
-    <td>✅</td>
+    <td>✅ Experiencia en diseño responsive.</td>
+  </tr>
+  <tr>
+    <td>✅ Conocimientos en bases de datos relacionales: OracleSQL; Y no relacionales: MongoDB.</td>    
+  </tr>
+  <tr>
+    <td>✅ Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.</td>
+  </tr>
+  <tr>
+    <td>✅ Control de versiones con Git.</td>    
+  </tr>
+  <tr>
+    <td>✅ Excelentes habilidades de comunicación y trabajo en equipo.</td>
   </tr>
 </table>
 
-- Desarrollo web front-end: HTML, CSS, JavaScript y React.
-- Experiencia en diseño responsive.
-- Conocimientos en bases de datos relacionales: OracleSQL; Y no relacionales: MongoDB.
-- Conocimientos en lenguajes de programación back-end: Java, NodeJS y TypeScript.
-- Control de versiones con Git.
-- Excelentes habilidades de comunicación y trabajo en equipo.
+
 
 
 
