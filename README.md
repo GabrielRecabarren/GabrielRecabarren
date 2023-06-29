@@ -8,6 +8,16 @@ Poseo alta capacidad para trabajar en equipo y comunicarme de manera efectiva. S
 
 
 <h2 align="center"> 🔧 Habilidades destacadas: </h2>
+<table>
+  <tr>
+    <td>✅</td>
+    <td>✅</td>
+  </tr>
+  <tr>
+    <td>✅</td>
+  </tr>
+</table>
+
 - Desarrollo web front-end: HTML, CSS, JavaScript y React.
 - Experiencia en diseño responsive.
 - Conocimientos en bases de datos relacionales: OracleSQL; Y no relacionales: MongoDB.
