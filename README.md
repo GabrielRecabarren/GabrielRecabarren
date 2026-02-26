@@ -39,7 +39,7 @@ y troubleshooting de red.
 
 ---
 
-<h2 align="center">🧠 Enfoque profesional</h2>
+<h2 align="center">Enfoque profesional</h2>
 
 Interesado en:
 - Seguridad defensiva y monitoreo
